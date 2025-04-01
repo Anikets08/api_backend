@@ -123,3 +123,7 @@ A Postman collection is included in the repository. To use it:
    - `base_url`: Your API base URL (default: http://localhost:3000)
    - `token`: JWT token received after login
    - `task_id`: ID of the task to update/delete
+
+## Production URL
+
+https://api-backend-zodm.onrender.com
