@@ -14,7 +14,7 @@ A RESTful API for managing tasks with user authentication.
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Anikets08/api_backend.git
 cd todo-backend
 ```
 
